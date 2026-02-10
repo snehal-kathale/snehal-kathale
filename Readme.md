@@ -1,89 +1,103 @@
-# 👋 Hi, I'm Snehal Kathale
+<div align="center">
 
-Frontend / UI Developer | React | TypeScript | Next.js  
-📍 Pune, India  
+# 👋 Hi, I'm <span style="color:#4F46E5;">Snehal Kathale</span>
 
-I’m a Frontend Developer with ~4 years of experience building scalable, high-performance web applications. I specialize in creating clean, reusable UI components, dynamic form systems, and micro-frontend architectures. I enjoy crafting smooth user experiences and optimizing frontend performance.
+<span style="font-size:18px">
+  <span style="color:#0EA5E9;">Frontend Developer</span> • 
+  <span style="color:#22C55E;">React</span> • 
+  <span style="color:#F59E0B;">TypeScript</span> • 
+  <span style="color:#E11D48;">Next.js</span>
+</span>
+
+<a><br/><a/>
+
+<a href="https://linkedin.com/in/snehalkathale" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:snehalkathale23@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/snehalkathale" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white" />
+</a>
+<a href="https://www.google.com/maps/place/Pune,+Maharashtra" target="_blank">
+  <img src="https://img.shields.io/badge/Pune,%20India-0EA5E9?style=flat&logo=google-maps&logoColor=white" />
+</a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&color=20b2e6&center=true&vCenter=true&width=700&lines=Building+scalable%2C+high-performance+and+elegant+user+interfaces" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+## ✨ About Me
 
-- 💻 Frontend Engineer with strong experience in **React, TypeScript, Next.js**
-- 🧩 Built **reusable component libraries** and **micro-frontend modules**
-- ⚡ Passionate about **performance optimization & scalable UI architecture**
-- 🛠️ Experience with **Webpack, Module Federation, Redux**
-- 🤝 Comfortable collaborating in agile, cross-functional teams
+- 💻 4+ years of experience in **Frontend Development**
+- 🧱 Strong in **React, TypeScript, Next.js**
+- 🧩 Built **micro-frontend modules** & **reusable component systems**
+- ⚡ Passionate about **performance optimization & clean UI architecture**
+- 🤝 Love working with **product teams & designers**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+**💎 Frontend**
 - React.js, Next.js  
 - JavaScript (ES6+), TypeScript  
 - HTML5, CSS3  
 - Tailwind CSS, Material UI  
 
-**State Management**
+**🧠 State & Data**
 - Redux, React Context  
+- REST APIs  
 
-**Architecture & Performance**
-- Micro-frontends (Module Federation)  
+**🏗️ Architecture & Performance**
+- Micro-Frontends (Module Federation)  
 - Code Splitting, Lazy Loading  
-- Performance Optimization (Lighthouse)  
+- Lighthouse Performance Optimization  
 
-**Tools & Workflow**
+**🧰 Tools**
 - Webpack, Babel  
 - Git, GitLab, CI/CD  
-- REST APIs, Jira  
+- Jira  
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🔹 CKYC Dynamic Form Framework (Micro-Frontend)
-A standalone, configurable form engine integrated across multiple applications.
+### 🔷 CKYC Dynamic Form Framework (Micro-Frontend)
+> A standalone, configurable form engine integrated across multiple applications.
 
-**Highlights:**
+✨ Highlights  
 - JSON-driven dynamic form rendering  
-- Reusable micro-frontend module using Module Federation  
-- Host–app communication via exposed APIs  
-- Reduced frontend changes across products  
+- Reusable micro-frontend using Module Federation  
+- Host-app communication via exposed APIs  
 
-**Tech:** React, TypeScript, Webpack, Module Federation  
-
----
-
-### 🔹 Document Management System (Star DRUMS)
-Centralized system to manage secure documents across internal tools.
-
-**Highlights:**
-- Role-based access control (RBAC)  
-- Document versioning & recovery  
-- Integrated with SSO  
-- Improved maintainability and reduced user issues  
-
-**Tech:** Next.js, Redux, JavaScript, Micro-frontend  
+🛠 Tech: React, TypeScript, Webpack, Module Federation  
 
 ---
 
-## 📊 What I Focus On
+### 🔷 Star DRUMS – Document Management System
+> Centralized and secure document management system used across internal tools.
 
-- Writing **clean, maintainable UI code**
-- Designing **scalable frontend architecture**
-- Improving **performance & load times**
-- Building **reusable design systems**
-- Delivering **production-ready UI**
+✨ Highlights  
+- RBAC & document versioning  
+- SSO integration  
+- 40% improvement in maintainability  
 
----
-
-## 📫 Let’s Connect
-
-- 💼 LinkedIn: https://linkedin.com/in/snehalkathale  
-- 📧 Email: snehalkathale23@gmail.com  
-- 🧑‍💻 GitHub: https://github.com/<your-github-username>
+🛠 Tech: Next.js, Redux, JavaScript  
 
 ---
 
-⭐ If you like my work, feel free to star my repositories!
+<div align="center">
+
+⭐ *If you like my work, consider starring my repositories!* ⭐  
+
+</div>

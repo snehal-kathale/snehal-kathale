@@ -3,10 +3,13 @@
 # 👋 Hi, I'm <span style="color:#4F46E5;">Snehal Kathale</span>
 
 <span style="font-size:18px">
-  <span style="color:#0EA5E9;">Frontend Developer</span> • 
-  <span style="color:#22C55E;">React</span> • 
-  <span style="color:#F59E0B;">TypeScript</span> • 
-  <span style="color:#E11D48;">Next.js</span>
+  <span style="color:#0EA5E9;"><img width="14" height="14" alt="image" src="https://github.com/user-attachments/assets/f99e567a-37ac-47e9-b9ea-25c210304dac" />
+ Frontend Developer</span> • 
+  <span style="color:#22C55E;">⚛️ React</span> • 
+  <span style="color:#F59E0B;"><img width="14" height="14" alt="image" src="https://github.com/user-attachments/assets/cebf1943-485f-43ce-8fed-77c396ac86e1" /> TypeScript</span> • 
+  <span><img width="14" height="14" alt="image" src="https://github.com/user-attachments/assets/f63100b6-3fd5-4ccd-a9ba-5a82421f4653" /> JavaScript</span> •
+  <span style="color:#E11D48;"><img width="14" height="14" borderRadius='20' alt="image" src="https://github.com/user-attachments/assets/9c451d97-3076-492f-8565-e12090fdef3f" />
+Next.js</span>
 </span>
 
 <a><br/><a/>

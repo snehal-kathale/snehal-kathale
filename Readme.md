@@ -20,7 +20,7 @@ Next.js</span>
 <a href="mailto:snehalkathale23@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/snehalkathale" target="_blank">
+<a href="https://github.com/snehal-kathale" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white" />
 </a>
 <a href="https://www.google.com/maps/place/Pune,+Maharashtra" target="_blank">
